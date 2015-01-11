@@ -1,0 +1,8 @@
+h1,h2,h3,h4,h5,h6,p,a,label,li,dl,table{
+    font-family: "Open Sans", sans-serif;
+}
+
+body {
+    background-image: url("paper.gif");
+    font-family: "Open Sans", sans-serif;
+}
